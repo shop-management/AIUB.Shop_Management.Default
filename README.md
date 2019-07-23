@@ -1,3 +1,4 @@
+# Super Shop Management System
 ## Overview
 The name of the system is ManageIT.
 ManageIT is a desktop based system specified to manage the inventory sells and to keep track of a Super Shop. The aim of the system is to make the management of the shop easier and to keep track of all products that are coming into the shop as well as all the sells made by the shop. It will also keep track of all the employ working for the shop and all the customers who are frequent to the shop.
